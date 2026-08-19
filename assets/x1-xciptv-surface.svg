@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" role="img" aria-label="X1 XCIPTV control surface">
+  <rect width="1600" height="360" rx="30" fill="#060A0E"/>
+  <text x="72" y="70" font-family="Arial Black,Arial,sans-serif" font-size="28" fill="#28F2FF" letter-spacing="7">CONTROL SURFACE</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g transform="translate(72 118)"><rect width="220" height="130" rx="16" fill="#0B1319" stroke="#1D4E5E"/><text x="24" y="42" font-size="18" fill="#7CAAB7">01</text><text x="24" y="78" font-size="25" font-weight="700" fill="#FFF">DEVICES</text><text x="24" y="106" font-size="16" fill="#8BA4AE">track · filter · act</text></g>
+    <g transform="translate(312 118)"><rect width="220" height="130" rx="16" fill="#0B1319" stroke="#1D4E5E"/><text x="24" y="42" font-size="18" fill="#7CAAB7">02</text><text x="24" y="78" font-size="25" font-weight="700" fill="#FFF">PORTALS</text><text x="24" y="106" font-size="16" fill="#8BA4AE">configure · assign</text></g>
+    <g transform="translate(552 118)"><rect width="220" height="130" rx="16" fill="#0B1319" stroke="#28F2FF"/><text x="24" y="42" font-size="18" fill="#28F2FF">03</text><text x="24" y="78" font-size="25" font-weight="700" fill="#FFF">BRANDING</text><text x="24" y="106" font-size="16" fill="#8BA4AE">visual · language</text></g>
+    <g transform="translate(792 118)"><rect width="220" height="130" rx="16" fill="#0B1319" stroke="#1D4E5E"/><text x="24" y="42" font-size="18" fill="#7CAAB7">04</text><text x="24" y="78" font-size="25" font-weight="700" fill="#FFF">SERVICES</text><text x="24" y="106" font-size="16" fill="#8BA4AE">VPN · sports · TMDB</text></g>
+    <g transform="translate(1032 118)"><rect width="220" height="130" rx="16" fill="#0B1319" stroke="#1D4E5E"/><text x="24" y="42" font-size="18" fill="#7CAAB7">05</text><text x="24" y="78" font-size="25" font-weight="700" fill="#FFF">APK LAB</text><text x="24" y="106" font-size="16" fill="#8BA4AE">versions · rollback</text></g>
+    <g transform="translate(1272 118)"><rect width="220" height="130" rx="16" fill="#0B1319" stroke="#4C7DFF"/><text x="24" y="42" font-size="18" fill="#4C7DFF">06</text><text x="24" y="78" font-size="25" font-weight="700" fill="#FFF">OPERATIONS</text><text x="24" y="106" font-size="16" fill="#8BA4AE">audit · health · backup</text></g>
+  </g>
+  <path d="M72 292H1492" stroke="#18343F"/>
+  <text x="72" y="325" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#88A4AE" letter-spacing="4">ONE PANEL · EXPLICIT CONTROL · NO ARTIFICIAL FEATURE LOCKS</text>
+</svg>
