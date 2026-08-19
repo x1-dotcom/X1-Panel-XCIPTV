@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="340" viewBox="0 0 1600 340" role="img" aria-label="X1 XCIPTV responsibility boundary">
+  <rect width="1600" height="340" rx="30" fill="#070B0F"/>
+  <text x="72" y="62" font-family="Arial Black,Arial,sans-serif" font-size="27" fill="#28F2FF" letter-spacing="6">RESPONSIBILITY BOUNDARY</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <rect x="72" y="100" width="680" height="170" rx="20" fill="#0B151A" stroke="#28F2FF" stroke-width="2"/>
+    <text x="108" y="142" font-size="18" fill="#28F2FF" letter-spacing="4">X1 PANEL PROVIDES</text>
+    <text x="108" y="184" font-size="25" font-weight="700" fill="#FFF">CONTROL · CONFIGURATION · OPERATIONS</text>
+    <text x="108" y="222" font-size="18" fill="#9CB7C0">Device, portal, visual, service, APK and administrative tooling.</text>
+    <rect x="848" y="100" width="680" height="170" rx="20" fill="#0B151A" stroke="#4C7DFF" stroke-width="2"/>
+    <text x="884" y="142" font-size="18" fill="#4C7DFF" letter-spacing="4">OPERATOR PROVIDES</text>
+    <text x="884" y="184" font-size="25" font-weight="700" fill="#FFF">AUTHORIZED SYSTEMS · SERVICES · CONTENT</text>
+    <text x="884" y="222" font-size="18" fill="#9CB7C0">Servers, accounts, credentials, integrations and legal rights to use them.</text>
+  </g>
+  <text x="800" y="312" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#78939C" letter-spacing="4">MANAGEMENT SOFTWARE DOES NOT CREATE RIGHTS TO THIRD-PARTY SYSTEMS OR CONTENT</text>
+</svg>
