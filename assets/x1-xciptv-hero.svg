@@ -1,30 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-label="X1 Panel XCIPTV">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070A"/><stop offset="1" stop-color="#101820"/></linearGradient>
-    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#28F2FF"/><stop offset="1" stop-color="#4C7DFF"/></linearGradient>
-    <pattern id="scan" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M0 28H28" stroke="#11303A" opacity=".28"/></pattern>
-  </defs>
-  <rect width="1600" height="460" rx="34" fill="url(#bg)"/>
-  <rect width="1600" height="460" rx="34" fill="url(#scan)"/>
-  <path d="M0 92H360L430 22H730" fill="none" stroke="#28F2FF" stroke-width="3" opacity=".85"/>
-  <path d="M1600 368H1260L1190 438H900" fill="none" stroke="#4C7DFF" stroke-width="3" opacity=".75"/>
-  <g transform="translate(90 70)">
-    <text x="0" y="62" font-family="Arial Black,Arial,sans-serif" font-size="30" fill="#28F2FF" letter-spacing="8">X1 // APP CONTROL</text>
-    <text x="0" y="145" font-family="Arial Black,Arial,sans-serif" font-size="78" fill="#FFFFFF">XCIPTV PANEL</text>
-    <text x="0" y="195" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#A9C6D1">Self-hosted control plane for compatible Android / TV app workflows</text>
-    <g transform="translate(0 252)" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">
-      <rect x="0" y="0" width="210" height="52" rx="8" fill="#0B171D" stroke="#28F2FF"/><text x="35" y="33" fill="#DFFBFF">PUBLIC RELEASE</text>
-      <rect x="230" y="0" width="175" height="52" rx="8" fill="#0B171D" stroke="#28F2FF"/><text x="276" y="33" fill="#DFFBFF">FREE</text>
-      <rect x="425" y="0" width="270" height="52" rx="8" fill="#0B171D" stroke="#4C7DFF"/><text x="468" y="33" fill="#DFFBFF">SELF-HOSTED</text>
-    </g>
-  </g>
-  <g transform="translate(1110 68)" fill="none" stroke="url(#accent)" stroke-width="5">
-    <rect x="0" y="0" width="330" height="245" rx="24"/>
-    <rect x="28" y="32" width="274" height="154" rx="12"/>
-    <path d="M58 72h78M58 104h150M58 136h112M218 68v70M244 68v70"/>
-    <circle cx="92" cy="216" r="8" fill="#28F2FF" stroke="none"/>
-    <circle cx="126" cy="216" r="8" fill="#4C7DFF" stroke="none"/>
-    <path d="M176 216h84"/>
-  </g>
-  <text x="1510" y="424" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#6A8791" letter-spacing="5">CONFIGURE · BRAND · OPERATE · VERIFY</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="X1 Panel XCIPTV">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02060A"/><stop offset=".55" stop-color="#07121B"/><stop offset="1" stop-color="#02070D"/></linearGradient><linearGradient id="x" x1="0" x2="1"><stop stop-color="#19F6FF"/><stop offset=".55" stop-color="#11C9FF"/><stop offset="1" stop-color="#326BFF"/></linearGradient><radialGradient id="r"><stop stop-color="#326BFF" stop-opacity=".2"/><stop offset="1" stop-color="#326BFF" stop-opacity="0"/></radialGradient><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8FB3BF" stroke-opacity=".05"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1600" height="500" rx="30" fill="url(#bg)"/><rect width="1600" height="500" rx="30" fill="url(#grid)"/><circle cx="1260" cy="230" r="360" fill="url(#r)"/><path d="M0 78H430L496 12M0 422H430L496 488M1600 78H1240L1174 12M1600 422H1240L1174 488" fill="none" stroke="#183440" stroke-width="2"/>
+<g transform="translate(78 66)"><text x="0" y="40" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="5" fill="#6ED8EA">X1 // PUBLIC APP CONTROL</text><text x="0" y="150" font-family="Arial Black,Arial,sans-serif" font-size="132" font-weight="900" letter-spacing="-10" fill="url(#x)" filter="url(#glow)">X1</text><text x="220" y="143" font-family="Arial Black,Arial,sans-serif" font-size="57" font-weight="900" fill="#F6FCFF">XCIPTV PANEL</text><text x="220" y="195" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="4" fill="#8FB3BF">APPLICATION CONTROL PLANE</text><text x="0" y="270" font-family="Arial Black,Arial,sans-serif" font-size="42" fill="#FFFFFF">CONFIGURE. OPERATE. VERIFY.</text><text x="0" y="310" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#9DB8C3">Devices · portals · branding · services · APK operations.</text><g transform="translate(0 347)" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2"><rect width="168" height="48" rx="9" fill="#071921" stroke="#19E8FF"/><text x="28" y="30" fill="#DFFBFF">PUBLIC / FREE</text><rect x="184" width="178" height="48" rx="9" fill="#08131B" stroke="#26CFFF"/><text x="213" y="30" fill="#DFFBFF">SELF-HOSTED</text><rect x="378" width="194" height="48" rx="9" fill="#09121C" stroke="#4777FF"/><text x="408" y="30" fill="#DFFBFF">APP CONTROL</text></g></g>
+<g transform="translate(1048 78)" font-family="Arial,Helvetica,sans-serif"><rect width="458" height="326" rx="24" fill="#071018" stroke="#1FDFFF" stroke-width="2"/><rect x="22" y="22" width="414" height="42" rx="9" fill="#0A1821"/><circle cx="45" cy="43" r="5" fill="#19E8FF"/><text x="62" y="49" font-size="13" font-weight="700" letter-spacing="2" fill="#CFF9FF">X1 APP COMMAND SURFACE</text><text x="412" y="49" text-anchor="end" font-size="12" fill="#70D9E7">READY</text><g transform="translate(22 84)"><rect width="122" height="96" rx="12" fill="#08151D" stroke="#173745"/><text x="16" y="25" font-size="10" letter-spacing="2" fill="#6ED8EA">DEVICES</text><text x="16" y="61" font-size="31" font-weight="900" fill="#F4FCFF">CTRL</text><circle cx="98" cy="68" r="8" fill="#19E8FF"/></g><g transform="translate(158 84)"><rect width="122" height="96" rx="12" fill="#08151D" stroke="#173745"/><text x="16" y="25" font-size="10" letter-spacing="2" fill="#6ED8EA">VISUAL</text><text x="16" y="61" font-size="25" font-weight="900" fill="#F4FCFF">THEME</text><rect x="87" y="48" width="20" height="20" rx="4" fill="#26CFFF"/></g><g transform="translate(294 84)"><rect width="120" height="96" rx="12" fill="#08151D" stroke="#173745"/><text x="16" y="25" font-size="10" letter-spacing="2" fill="#8AA6FF">APK LAB</text><text x="16" y="61" font-size="25" font-weight="900" fill="#F4FCFF">VALID</text><circle cx="94" cy="60" r="13" fill="none" stroke="#4777FF" stroke-width="3"/><path d="M88 60l5 5 9-11" fill="none" stroke="#4777FF" stroke-width="3"/></g><g transform="translate(22 198)"><rect width="392" height="96" rx="12" fill="#06121A" stroke="#173745"/><text x="16" y="25" font-size="10" letter-spacing="2" fill="#6ED8EA">CONTROL LOOP</text><path d="M22 61H82L102 40L128 77L155 52H211L238 31L267 76L293 52H366" fill="none" stroke="url(#x)" stroke-width="4"/><circle cx="366" cy="52" r="6" fill="#19E8FF"/></g></g>
+<text x="800" y="470" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="5" fill="#6FBDCB">PUBLIC SOFTWARE · PRIVATE ENGINEERING · ONE X1 IDENTITY</text></svg>
