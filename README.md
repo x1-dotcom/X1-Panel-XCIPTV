@@ -28,6 +28,10 @@
 
 The panel brings device management, portal configuration, visual control, VPN, Sports, TMDB, messaging, APK operations, backups, monitoring and administration into one operational surface.
 
+<p align="center">
+  <img src="./assets/x1-xciptv-capabilities.svg" alt="X1 XCIPTV capability surface" width="100%" />
+</p>
+
 ---
 
 <p align="center">
